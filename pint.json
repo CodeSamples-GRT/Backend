@@ -1,0 +1,6 @@
+{
+  "preset": "per",
+  "rules": {
+    "trailing_comma_in_multiline": true
+  }
+}
